@@ -1,6 +1,6 @@
 <div align = "center">
   
-#### 📌 CONTACT 
+### 📌 CONTACT 
 
  ✉ heejuu.c@gmail.com
   
