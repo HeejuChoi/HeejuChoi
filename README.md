@@ -2,6 +2,13 @@
   
 #### 📌 CONTACT 
 
+ ✉ heejuu.c@gmail.com
+  
+  
+  
+  
+  
+  
 <!--
 **HeejuChoi/HeejuChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
