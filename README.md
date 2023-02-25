@@ -4,9 +4,7 @@
 
  ✉ heejuu.c@gmail.com
 
-✍️ https://velog.io/@heejuu    
-    
-  
+✍️ https://velog.io/@heejuu
    
   
   
